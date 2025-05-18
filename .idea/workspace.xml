@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd333fd9-66f3-4656-b4af-69d6707af328" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part1/part1-main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/exapmle_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/part2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2/part2_config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_part1_alg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_part2.py" afterDir="false" />
+    <list default="true" id="dd333fd9-66f3-4656-b4af-69d6707af328" name="Changes" comment="main_work_end">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/alg.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/alg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_part2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +71,7 @@
       <recent name="C:\Users\Asus\PycharmProjects\test-assigment-cloud-ru-qa\part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_part2.py">
+  <component name="RunManager" selected="Python tests.Python tests for test_part2.test_is_title_equals">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test-assigment-cloud-ru-qa" />
       <option name="ENV_FILES" value="" />
@@ -172,8 +163,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_part2.py" />
         <item itemvalue="Python tests.Python tests for test_part2.test_is_title_equals" />
+        <item itemvalue="Python tests.Python tests in test_part2.py" />
         <item itemvalue="Python tests.Python tests for test_part2.test_is_css_more_information" />
         <item itemvalue="Python.1" />
         <item itemvalue="Python tests.pytest for test_part2" />
@@ -198,19 +189,43 @@
       <updated>1747496039463</updated>
       <workItem from="1747496048821" duration="5606000" />
       <workItem from="1747509065784" duration="550000" />
-      <workItem from="1747558404208" duration="15398000" />
+      <workItem from="1747558404208" duration="16869000" />
     </task>
+    <task id="LOCAL-00001" summary="main_work_end">
+      <option name="closed" value="true" />
+      <created>1747575858895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747575858895</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="main_work_end" />
+    <option name="LAST_COMMIT_MESSAGE" value="main_work_end" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/test_assigment_cloud_ru_qa$alg.coverage" NAME="alg Coverage Results" MODIFIED="1747563736495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part1" />
     <SUITE FILE_PATH="coverage/test_assigment_cloud_ru_qa$pytest_for_test_part2.coverage" NAME="pytest for test_part2 Coverage Results" MODIFIED="1747572248629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/test_assigment_cloud_ru_qa$part1_main.coverage" NAME="part1-main Coverage Results" MODIFIED="1747566690401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part1" />
     <SUITE FILE_PATH="coverage/test_assigment_cloud_ru_qa$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1747566367357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part1" />
-    <SUITE FILE_PATH="coverage/test_assigment_cloud_ru_qa$.coverage" NAME=" Coverage Results" MODIFIED="1747575608827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/test_assigment_cloud_ru_qa$.coverage" NAME=" Coverage Results" MODIFIED="1747576680093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/test_assigment_cloud_ru_qa$1.coverage" NAME="1 Coverage Results" MODIFIED="1747574468540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part2" />
   </component>
 </project>

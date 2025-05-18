@@ -2,6 +2,7 @@ import time
 
 import pytest
 from selenium import webdriver
+from selenium.webdriver.ie.service import Service
 from selenium.webdriver.remote.webelement import WebElement
 from webdriver_manager.chrome import ChromeDriverManager
 
@@ -10,8 +11,8 @@ from part2.exapmle_page import ExamplePage
 
 @pytest.fixture
 def create_page():
-    webdriver.ChromeService(executable_path='static/chromedriver.exe')
-    driver = webdriver.Chrome()
+    # webdriver.ChromeService(executable_path='static/chromedriver.exe')
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     page = ExamplePage(driver)
     page.is_more_info_text_in_css("More information")
     yield page

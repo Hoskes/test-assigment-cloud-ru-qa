@@ -1,4 +1,4 @@
-from part1.alg import format_fast_sort
+from alg import format_fast_sort
 
 arr = []
 try:
